@@ -1,5 +1,5 @@
 # Msk-Age
-A repository for the estimation of epigenetic age in musculoskeletal tissues
+A repository for the estimation of epigenetic age with MskAge
 
 ```{r}
 library(tidyverse)
