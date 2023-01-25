@@ -1,5 +1,5 @@
 # Msk-Age
-A repository for the estimation of epigenetic age in musculoskeletal tissues
+A repository for the estimation of epigenetic age with MskAge
 
 ```{r}
 library(tidyverse)
@@ -30,3 +30,4 @@ ggplot(pheno, aes(x = Day, y = MskAge, fill = Day)) +
 ggsave("plots/msk_age_plot.png", dpi = 1000, width = 6, height = 4, units = "in")
 
 ```
+<img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/msk_age_plot.png" alt="drawing" width="300"/>
