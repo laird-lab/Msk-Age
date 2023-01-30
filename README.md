@@ -54,4 +54,6 @@ ggplot(pheno, aes(x = Day, y = MskAge, fill = Day)) +
 ggsave("plots/msk_age_plot.png", dpi = 1000, width = 6, height = 4, units = "in")
 
 ```
-<img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/msk_age_plot.png" alt="drawing" width="300"/>
+<p align="center">
+  <img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/msk_age_plot.png" alt="drawing" width="300"/>
+</p>
