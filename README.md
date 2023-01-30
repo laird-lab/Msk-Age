@@ -17,7 +17,7 @@ MskAge was developed using > 1,000 genome-wide DNA methylation profiles of muscu
 Primarily, MskAge is a highly accurate predictor of the epigenetic age of musculoskeletal tissue or cell types. However, the readout, as with other epigenetic biomarkers, given by MskAge also appears to reflect biological ageing changes in the tissue/cell. Two common age-related purtubations are reprogramming of somatic cells to pluripotent states and continual passaging/*in vitro* expansion of primary cells in culture. MskAge is reset to approximately zero when primary fibroblasts are reprogrammed to iPSCs and MskAge shows a strong linear relationship with cumulative population doublings during normal expansion of primary fibroblasts in culture.
 
 <p align="center">
-  <img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/AgePerturbations.png" alt="drawing" width="300"/>
+  <img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/AgePerturbations.png" alt="drawing" width="500"/>
 </p>
 
 **Which CpGs does MskAge use to make its predictions?**
