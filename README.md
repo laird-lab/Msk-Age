@@ -1,6 +1,8 @@
 # Msk-Age
 A repository for the estimation of epigenetic age with MskAge
 
+<img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/MskAge_Publication.png" alt="drawing" width="300"/>
+
 ```{r}
 library(tidyverse)
 library(glmnet)
