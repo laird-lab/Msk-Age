@@ -10,7 +10,7 @@ MskAge is an algorithm that can be used to predict the epigenetic age of cells/t
 
 **How was MskAge developed?**
 
-MskAge was developed using > 1,000 genome-wide DNA methylation profiles of musculoskeletal tissue and cell types. To effectively search the high-dimensional feature space, I designed a penalised genetic algorithms islands model with a regularised regression learner function that minimised within tissue/cell type error while removing redundant CpGs. Full details of the algorithm can be found in the methods of the paper. The final selection of 3,365 CpGs were algebraically transformed into linear principal components and an Elastic Net regression model was built to predict an invertible function of chronological age \citep{Horvath2013, Friedman2010}. 
+MskAge was developed using > 1,000 genome-wide DNA methylation profiles of musculoskeletal tissue and cell types. To effectively search the high-dimensional feature space, I designed a penalised genetic algorithms islands model with a regularised regression learner function that minimised within tissue/cell type error while removing redundant CpGs. Full details of the algorithm can be found in the methods of the paper. The final selection of 3,365 CpGs were algebraically transformed into linear principal components and an Elastic Net regression model was built to predict an invertible function of chronological age. 
 
 **What does MskAge predict?**
 
