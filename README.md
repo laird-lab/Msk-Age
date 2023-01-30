@@ -30,7 +30,7 @@ The full file of CpGs and their annotations can be found in the supplementary ma
 
 **How can I use MskAge?**
 
-MskAge can be used for a large number of purposes, however given its applicability to *in vitro* and *ex vivo* culture systems, and the difficulty of obtaining musculoskeletal tissues from patietns, we anticipate MskAge will be highly useful to study the effects of experimental perturbations.
+MskAge can be used for a large number of purposes, however given its applicability to *in vitro* and *ex vivo* culture systems, and the difficulty of obtaining musculoskeletal tissues from patients, we anticipate MskAge will be highly useful to study the effects of experimental perturbations.
 
 
 **I have some data, how do I calcuate the MskAge of my samples?**
