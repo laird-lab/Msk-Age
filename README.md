@@ -1,7 +1,7 @@
 # Msk-Age
 A repository for the estimation of epigenetic age with MskAge
 
-<img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/MskAge_Publication.pn" alt="drawing"/>
+<img src="https://github.com/Daniel-C-Green/Msk-Age/blob/main/plots/MskAge_Publication.png" alt="drawing"/>
 
 
 **What is MskAge?**
